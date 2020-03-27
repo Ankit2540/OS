@@ -155,6 +155,4 @@ for(int j=0;j<totalprocess;j++)
 	findgc(); 
 
 	return 0; 
-} 
-
-// This code is contributed by Anukul Chand. 
+}  
